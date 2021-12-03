@@ -1,7 +1,7 @@
 # Github-Practice
 Github Practice
-Hello JAVA
+Hello Core JAVA
 Hello React
 Hello Node
 Hello Trending
-Hello Again
+Hello C++
